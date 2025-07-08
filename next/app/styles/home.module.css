@@ -1,0 +1,28 @@
+.hero {
+    background: url('/assets/hero-bg.jpg') no-repeat center/cover;
+    color: #fff;
+    text-align: center;
+    padding: 4rem 2rem;
+    border-radius: 2rem 2rem 0 0;
+  }
+  .cake-list {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    margin: 2rem 0;
+  }
+  .cake-card {
+    background: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 2px 8px #0001;
+    padding: 1rem;
+    width: 200px;
+    text-align: center;
+  }
+  .main-title {
+    text-align: center;
+    margin-top: 2rem;
+    font-family: serif;
+    font-size: 2.5rem;
+  }
+  
