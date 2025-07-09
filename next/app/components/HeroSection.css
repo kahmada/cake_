@@ -1,0 +1,57 @@
+/* HeroSection.css */
+
+.hero {
+    background: linear-gradient(135deg, #efefef 0%, #fceabb 100%);
+    padding: 4rem 2rem;
+    text-align: center;
+    border-radius: 1.5rem;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    margin: 2rem auto;
+    max-width: 800px;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    color: #6b3e00;
+    margin-bottom: 1rem;
+    font-family: 'Georgia', serif;
+  }
+  
+  .hero p {
+    font-size: 1.25rem;
+    color: #4a2c00;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+  }
+  .hero .hi {
+    background-color: blue;
+    font-size: 1.5rem;
+    color: #b35e2e; /* couleur chocolat */
+    margin-bottom: 1rem;
+    font-family: 'Arial', sans-serif;
+  }
+  .hero img {
+    max-width: 20%;
+    height: auto;
+    border-radius: 1rem;
+    margin-bottom: 3rem;
+  }
+  
+  .hero button {
+
+
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    margin: 0 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .hero button:hover {
+    background-color: #8a5510;
+  }
+  

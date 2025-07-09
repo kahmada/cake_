@@ -1,0 +1,14 @@
+
+.cake-list {
+    border-radius: 20;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(237, 234, 229);
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 2rem;
+    padding: 2rem 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  

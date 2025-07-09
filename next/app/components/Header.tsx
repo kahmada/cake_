@@ -1,13 +1,15 @@
+
+import './Header.css';
 export default function Header() {
     return (
       <header>
         <nav>
           <ul>
-            <li>hdjhjv</li>
-            <li>hdjhjv</li>
-            <li>hdjhjv</li>
-            <li>hdjhjv</li>
-            <li>hdjhjv</li>
+            <li>home</li>
+            <li>about</li>
+            <li>services</li>
+            <li>contact</li>
+            <li>else</li>
           </ul>
         </nav>
       </header>

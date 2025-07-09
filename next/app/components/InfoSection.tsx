@@ -1,3 +1,5 @@
+import './InfoSection.css';
+
 export default function InfoSection() {
     return (
       <section className="info-section">

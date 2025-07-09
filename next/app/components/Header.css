@@ -1,0 +1,34 @@
+/* Header.css */
+
+header {
+    justify-content: center;
+    align-items: center;
+    display: flex; /* Utilise flexbox pour centrer le contenu */
+    background-image: url('/assets/q1.png'); /* Image de fond */
+    background-size: cover; /* Couvre tout l'espace */
+    background-repeat: no-repeat;
+    padding: 6rem 3rem;
+    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+  }
+  
+  nav ul {
+    
+    list-style: none; /* Supprime les puces */
+    display: flex; /* Affiche les items en ligne */
+    gap: 5rem; /* Espace entre les items */
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    border-radius: 50%;
+    font-weight: 600;
+    color: #333;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  nav ul li:hover {
+    color: #b35e2e; /* Couleur au survol */
+  }
+  

@@ -1,0 +1,27 @@
+/* InfoSection.css */
+
+.info-section {
+    max-width: 800px;
+    margin: 3rem auto;
+    padding: 2rem 1rem;
+    background-color: #fff8f0;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(179, 94, 46, 0.2); /* ombre douce couleur chocolat */
+    font-family: 'Georgia', serif;
+    color: #5a3e1b;
+    text-align: center;
+  }
+  
+  .info-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #b35e2e; /* couleur chocolat */
+  }
+  
+  .info-section p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #6b4a1a;
+    white-space: pre-line; /* pour respecter les sauts de ligne */
+  }
+  

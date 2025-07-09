@@ -5,7 +5,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="fr">
       <body>
         <nav>
-          <Link href="/">Accueil</Link> | <Link href="/about">À propos</Link>
+       
         </nav>
         {children}
       </body>
